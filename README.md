@@ -1,4 +1,4 @@
-##This is simple image gallery created using react js.
+## This is simple image gallery with filtering capabilities created using react js.
 
 ### Installation
     git clone https://github.com/Mloweedgar/image-gallery.git
