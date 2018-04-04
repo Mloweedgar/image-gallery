@@ -9,3 +9,5 @@ class GalleryImage extends Component {
         )
     }
 }
+
+export default GalleryImage;

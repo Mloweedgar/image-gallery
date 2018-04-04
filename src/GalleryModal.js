@@ -1,8 +1,8 @@
 
 import React, { Component } from 'react';
 
-// For image preview in the gallarey
-class GalleryModal extends React.Component {
+// For image preview in the gallery
+class GalleryModal extends Component {
     render() {
         if (this.props.isOpen === false) {
             return null;
@@ -19,3 +19,5 @@ class GalleryModal extends React.Component {
         )
     }
 }
+
+export default GalleryModal;
